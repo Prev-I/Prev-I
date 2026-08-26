@@ -23,7 +23,7 @@ I also work with TypeScript, Vue.js, Node.js, and Python.
 
 I lead cloud/backend architecture, technical roadmap, and engineering governance across GEWISS platforms, including **JoinON EVO**, an eMobility solution running on Azure and Kubernetes in European and Middle Eastern markets.
 
-My production work includes distributed services, RabbitMQ-based messaging, OCPP 1.6 and 2.0.1 integrations, digitally signed OTA updates, observability, and technical work supporting EU Radio Equipment Directive compliance.
+My production work includes distributed services, RabbitMQ-based messaging, OCPP 1.6 integration and OCPP 2.0.1 interface design, digitally signed OTA updates, observability, and technical work supporting EU Radio Equipment Directive compliance.
 
 ## Independent R&D
 
